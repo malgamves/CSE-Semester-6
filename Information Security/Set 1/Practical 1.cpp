@@ -1,6 +1,6 @@
 //Practical 1
-// Done by Daniel
-// Aim: Implement Caeser Cipher Encryption and Decryption
+// Done by Daniel Phiri
+// Aim: Implementation Caeser Cipher Encryption and Decryption
 
 #include<iostream>
 
