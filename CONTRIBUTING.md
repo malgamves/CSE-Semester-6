@@ -1,7 +1,7 @@
 # BECOMING A PART OF THE CONTRIBUTORS' GROUP IS OPEN FOR ALL THOSE WHO ARE INTERESTED
 
 This discussion concerns anyone who is contributing to the current undertaking. 
-Please be sure to follow the basic guidelines of contributing curriculum practicals as mentioned below:
+Please be sure to follow the basic guidelines for contribution of curriculum practicals as mentioned below:
 
 Any contribution should 
 1. be placed inside the correct enclosing folder.
