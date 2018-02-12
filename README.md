@@ -1,7 +1,7 @@
-# Sem6
-Repo of my Semester 6 subjects and related programs.
+# Computer Science Engineering
+Repo of Computer Science  subjects and related programs.
 
-I have following subjects in my 6th Semester:
+We have following subject:
 - Wireless Networks and Mobile Computing
 - Principles of Compilers
 - Advanced Web Technology
