@@ -1,25 +1,25 @@
-1. Perform Network Wireless Commands.
-2. Write a program to simulate Fixed Time Division Multiplexing. Take 12 stations. Every station has time slice of 417 microseconds. Delay should be 10ms. Every time the station gets turn, it shows message.
-3. Write a program that identifies the bluetooth devices in the wireless range.
-4.Write a program that prints the signal strength of WiFi connection of the given computer
-5.Prepare a wireless ad hoc network and show its working.
-6.Write a program to find hamming distance. For example Hamming distance d(v1,v2)=3 if v1=011011,v2=110001.
-7.Develop an android app which displays “Hello, welcome to Android Lab” message
-8.Develop an android app which displays:
-   I. Dialogbox
-   II. Application that checks which button you have clicked
-   III. ListView with multiple choices in android
-9. Create simple Hello World application in android.
-10.Develop an android app which displays a form to get following information from user.
-  1. Username
-  2. Password
-  3. Email Address
-  4. Phone Number
-  5. Country
-  6. State
-  7. State
-  8. Gender 
-  9. Interests
-  10. Birth Date
-  11. Birth Time Form should be followed by a Button with label “Submit”. When user clicks the button, a message should be displayed to user describing the information entered.
-11.Develop calculator Android Application
+HTML-5
+      1.Create a HTML5 web page which shows the use of Structural Element.
+      2.Create a HTML5 web page which shows the use of Audio & Video.
+      3.Create a HTML5 web page which shows the use of Canvas.
+      4.Create a HTML5 web page which shows the use of Geolocation.
+      5.Create a HTML5 web page which shows the use of Datastorage.
+CSS-3
+      6.Write a code for Mouse over the element to see a CSS3 transition effect.
+      7.Write a code for Creating linear gradients using multiple color stops
+      8.Write a code for Creating text shadow effect
+      9.Write a code for Applying multiple transformation to an element
+      10.Write a code for Animating elements on a web page
+ADVANCE JAVASCRTIPT
+      11.Create a HTML5 form which displays some validation in text box using java script.
+      12.Write a JavaScript code to handle Error
+      13.Write a JavaScript code to Show the use of Animation
+XML
+      14.Create CD Catalogue Table in XML and display it using XSL Style Sheet
+PHP &MySql
+      15.Write a PHP code to shows the use of Decision Making
+      16.Write a PHP code to shows the use of Functions
+      17.Write a PHP code to shows the use of different Arrays
+      18.Write a PHP code for Sending Emails
+      19.Write a PHP code for File Uploading
+      20.Write a PHP code for database connection with MySql and also perform Insert, Update & Delete
