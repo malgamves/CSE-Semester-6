@@ -1,7 +1,7 @@
 # HTML-5
-   - [x] 1.Create a HTML5 web page which shows the use of Structural Element.
+   - [ ] 1.Create a HTML5 web page which shows the use of Structural Element.
    - [x] 2.Create a HTML5 web page which shows the use of Audio & Video.
-   - [ ] 3.Create a HTML5 web page which shows the use of Canvas.
+   - [x] 3.Create a HTML5 web page which shows the use of Canvas.
    - [ ] 4.Create a HTML5 web page which shows the use of Geolocation.
    - [ ] 5.Create a HTML5 web page which shows the use of Datastorage.
 # CSS-3
